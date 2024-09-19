@@ -12,6 +12,24 @@ Para jogar, você precisa de um ambiente que suporte scripts Bash. O jogo foi te
 
 2. Navegue até o diretório do projeto.
 
+Ouuu...
+
+## Baixando Apenas o Arquivo .sh
+
+Se você deseja apenas baixar o script do jogo sem clonar todo o repositório, você pode fazer isso usando o `curl` ou o `wget`. Aqui estão os comandos para cada um:
+
+### Usando `curl`
+
+```bash
+curl -O https://raw.githubusercontent.com/devlooppear/cli-rpg-game/main/jogo_rpg.sh
+```
+
+### Usando `wget`
+
+```bash
+wget https://raw.githubusercontent.com/devlooppear/cli-rpg-game/main/jogo_rpg.sh
+```
+
 Dê permissão de execução ao script:
 
 ```bash

@@ -12,6 +12,24 @@ Clone or download this repository.
 
 Navigate to the project directory.
 
+Oorrr...
+
+## Downloading Only the .sh File
+
+If you want to download just the game script without cloning the entire repository, you can do this using curl or wget. Here are the commands for each:
+
+## Using `curl`
+
+```bash
+curl -O https://raw.githubusercontent.com/devlooppear/cli-rpg-game/main/jogo_rpg.sh
+```
+
+## Using `wget`
+
+```bash
+wget https://raw.githubusercontent.com/devlooppear/cli-rpg-game/main/jogo_rpg.sh
+```
+
 Grant execution permission to the script:
 
 ```bash
